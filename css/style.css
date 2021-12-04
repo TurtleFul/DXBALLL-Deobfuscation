@@ -3,8 +3,7 @@ body{
 	background: black;
 	font: 12px/1.4 Tahoma, Geneva, sans-serif;
 	color: #555;
-	overflow:hidden;
-	overflow-y: auto;
+	overflow: hidden; /* Hide scrollbars */
 }
 ::selection {
 	background: #610087;
